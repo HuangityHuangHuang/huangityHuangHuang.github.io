@@ -1,0 +1,33 @@
+a
+{
+	color: blue;
+}
+
+h1
+{
+	color: red;
+}
+
+.pages
+{
+	color: purple;
+	font-size: 14pt;
+}
+
+h3
+{
+	color: orange;
+}
+
+body
+{
+	background-color: #e0ffff;
+	text-align: justify;
+}
+
+img
+{
+	float: right;
+	padding-right: 15%;
+	border-right: 1px #e0ffff;
+}
